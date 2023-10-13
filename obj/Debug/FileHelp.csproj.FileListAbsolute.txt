@@ -1,0 +1,8 @@
+D:\C#\作业\znsd\FileHelp\bin\Debug\FileHelp.dll
+D:\C#\作业\znsd\FileHelp\bin\Debug\FileHelp.pdb
+D:\C#\作业\znsd\FileHelp\obj\Debug\FileHelp.csproj.AssemblyReference.cache
+D:\C#\作业\znsd\FileHelp\obj\Debug\FileHelp.csproj.CoreCompileInputs.cache
+D:\C#\作业\znsd\FileHelp\obj\Debug\FileHelp.dll
+D:\C#\作业\znsd\FileHelp\obj\Debug\FileHelp.pdb
+D:\C#\作业\znsd\FileHelp\bin\Debug\LitJSON.dll
+D:\C#\作业\znsd\FileHelp\obj\Debug\FileHelp.csproj.CopyComplete
